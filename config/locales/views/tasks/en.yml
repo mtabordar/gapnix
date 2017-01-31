@@ -1,0 +1,6 @@
+en:
+  tasks:
+    title: "Tasks"
+    created: "Task created!"
+    deleted: "Task deleted!"
+    updated: "Task updated!"
